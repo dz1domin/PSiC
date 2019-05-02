@@ -8,3 +8,4 @@ Programy napisane na zajęcia zaczynają się od prostego użycia API do komunik
 - 22_03_2019 -> prosty klient DNS
 - 5_04_2019 -> zastosowanie OpenSSL do szyfrowania informacji
 - 12_04_2019 -> zastosowanie OpenSSL do stworzenia prostego serwera HTTPS
+Programy pisane w celu poznania opracowywanych zagadnień, mogą nie być optymalne lub posiadać niektórych funkcjonalności.
